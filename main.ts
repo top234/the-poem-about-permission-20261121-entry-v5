@@ -3,7 +3,9 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // "The White Ones" — a poem about agency: the power to ask, and to be given.
 // A daughter asks to water her mother's roses while she is in hospital.
 // Her mother grants only half the ask — and what she keeps is the point.
-const poem = `"Can I water your roses
+const poem = `The White Ones
+
+"Can I water your roses
 while you're in hospital?"
 
 Mum turns toward the window.
